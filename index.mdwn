@@ -1,1 +1,7 @@
-This is the first wiki post!
+Welcome to your new wiki.
+
+All wikis are supposed to have a [[Sandbox]],
+
+---
+
+This wiki is powered by [ikiwiki](http://ikiwiki.info).
