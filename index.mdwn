@@ -2,7 +2,7 @@ Welcome to your new wiki.
 
 All wikis are supposed to have a [[Sandbox]],
 
-Here is a picture of who really runs things around here;
+Here is a picture of who really runs things around here;(really)
 
 ![alt text](http://farm5.static.flickr.com/4067/4527771327_d5af3340b6_m.jpg "Enrie-The Boss")
 
